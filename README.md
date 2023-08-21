@@ -4,3 +4,4 @@ Tic-tac-toe mobile game created to learn Jetpack Compose and game theory algorit
 - Jetpack Compose
 - Material3
 - MVVM
+- Animations
